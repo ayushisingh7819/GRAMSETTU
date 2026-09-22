@@ -11,7 +11,7 @@ import twilio from 'twilio';
 import multer from 'multer';
 
 import User from './models/User.js';
-import Mill from './models/Mill.js';
+import Mill from './models/mill.js';
 import Location from './models/Location.js';
 import MSP from './models/MSP.js';
 import Price from './models/Price.js';
